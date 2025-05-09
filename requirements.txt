@@ -1,0 +1,10 @@
+
+pip
+gower==0.1.2
+xgboost
+shap
+scikit-learn==1.6.1
+lazypredict
+ipywidgets
+seaborn
+pickle

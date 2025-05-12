@@ -7,4 +7,3 @@ scikit-learn==1.6.1
 lazypredict
 ipywidgets
 seaborn
-pickle

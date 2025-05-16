@@ -8,3 +8,4 @@ lazypredict
 ipywidgets
 seaborn
 supertree
+imbalanced-learn
